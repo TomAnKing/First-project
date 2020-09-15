@@ -1,5 +1,5 @@
 # My first project
 
-This is tge first project I`ve made.
+This is the first project I`ve made.
 
 another changee
